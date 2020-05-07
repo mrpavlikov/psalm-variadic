@@ -1,0 +1,12 @@
+{
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "require": {
+        "vimeo/psalm": "3.11.2",
+        "google/apiclient": "2.4.1",
+        "php": "^7.3"
+    }
+}
